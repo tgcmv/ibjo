@@ -1,40 +1,44 @@
-Iniciação à Informática
+# Iniciação à informática
 
-1. <title>Por que aprender informática?</title>
+![Introdução a informática](./assets/images/square.png)
+
+# 1. Por que aprender informática?
 
 Usamos a tecnologia praticamente todos os dias da nossa vida. Seja para fazer compras num supermercado, para regarregar a passagem e pagar um transporte público na maioria do nosso país, para nos comunicarmos e nos informarmos, para estudar e trabalhar em muitos setores.
 
 A informática está presente em quase tudo o que fazemos e consumimos, para se destacar no mercado de trabalho, além de tirar o máximo de proveito do seu celular e computador, o conhecimento básico em informática é essencial tanto para sua vida pessoal quanto profissional.
 
-Algumas coisas importantes são entender os conceitos básicos de edição de texto, planilhas e apresentações digitais, dominar a navegação na Internet e nas redes sociais, além de ter noção de segurança digital.
+Algumas coisas importantes que aprederemos na informática, são entender os conceitos básicos de edição de texto, planilhas e apresentações digitais, dominar a navegação na Internet e nas redes sociais, além de ter noção de segurança digital.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-1.1 <title>O que é informática?</title>
+## 1.1 O que é informática?
 
 Informática é a ciência que se dedica ao tratamento da informação mediante o uso de computadores e demais dispositivos de processamento de dados.
 
 Por exemplo, a calculadora é um dispositivo de processamento de dados. Numa calculadora onde você insere os dados 1 + 1, ela processa esses dados e mostra como resultado o número 2.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-1.2 <title>Não decore, entenda</title>
+## 1.2 Não decore, entenda
 
-Muitas imagens que vamos mostrar aqui, principalmente os botões e icones podem mudar de formato ou de posição conforme os anos passam. Por isso é super importante você não decorar. Deves aprender, raciocinar e entender o que está sendo explicado, pois assim, a cada nova versão você não precisará redecorar tudo novamente.
+Muitas imagens que vamos mostrar aqui, principalmente os botões e icones podem mudar de formato ou de posição conforme os anos passam. Por isso é super importante você não decorar. ***Deves aprender, raciocinar e entender o que está sendo explicado***, pois assim, a cada nova versão você não precisará redecorar tudo novamente.
 
-<img diferentes botões android ou mudanças de botão ao longo das versões>
+![diferentes botões android ou mudanças de botão ao longo das versões](./assets/images/square.png)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+**não decore, entenda**
 
-1.3 <title>Alguns conhecimentos gerais úteis para seguir nos estudos</title>
+---
 
-1.3.1 <title>Criar e cadastrar uma conta do Google no celular</title>
+## 1.3 Alguns conhecimentos gerais úteis para seguir nos estudos
 
-1.3.2 <title>Salvar e enviar um arquivo pelo Google drive</title>
-1.3.3 <title>Liberar espaço do celular com Google photos</title>
+1.3.1 Criar e cadastrar uma conta do Google no celular
+
+1.3.2 Salvar e enviar um arquivo pelo Google drive
+1.3.3 Liberar espaço do celular com Google photos
                 Usar aplicativos 'lite' e ccleaner
-1.3.4 <title>Ações para poupar dados móveis</title>
-1.3.5 <title>Desativar notificação de grupos de whatsapp</title>
+1.3.4 Ações para poupar dados móveis
+1.3.5 Desativar notificação de grupos de whatsapp
 
 Como tirar um print e editar (no celular e no computador)
 Como gravar tela do celular e do computador
