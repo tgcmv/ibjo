@@ -8,7 +8,7 @@ Usamos a tecnologia praticamente todos os dias da nossa vida. Seja para fazer co
 
 A informática está presente em quase tudo o que fazemos e consumimos, para se destacar no mercado de trabalho, além de tirar o máximo de proveito do seu celular e computador, o conhecimento básico em informática é essencial tanto para sua vida pessoal quanto profissional.
 
-Algumas coisas importantes que aprederemos na informática, são entender os conceitos básicos de edição de texto, planilhas e apresentações digitais, dominar a navegação na Internet e nas redes sociais, além de ter noção de segurança digital.
+Algumas coisas importantes que aprederemos na informática, são entender os conceitos básicos de edição de texto, planilhas e apresentações digitais, dominar a navegação na Internet e nas redes sociais, ter noção de segurança digital e muitos outros conceitos e estruturas diferentes.
 
 ---
 
@@ -16,13 +16,13 @@ Algumas coisas importantes que aprederemos na informática, são entender os con
 
 Informática é a ciência que se dedica ao tratamento da informação mediante o uso de computadores e demais dispositivos de processamento de dados.
 
-Por exemplo, a calculadora é um dispositivo de processamento de dados. Numa calculadora onde você insere os dados 1 + 1, ela processa esses dados e mostra como resultado o número 2.
+Por exemplo, a calculadora é um dispositivo de processamento de dados. Na calculadora você insere "1 + 1", ela processa esses dados e mostra como resultado o número "2".
 
 ---
 
 ## Não decore, entenda
 
-Muitas imagens que vamos mostrar aqui, principalmente os botões e icones podem mudar de formato ou de posição conforme os anos passam. Por isso é super importante você não decorar. ***Deves aprender, raciocinar e entender o que está sendo explicado***, pois assim, a cada nova versão você não precisará redecorar tudo novamente.
+Muitas imagens que vamos mostrar aqui, principalmente os botões e icones, podem mudar de formato ou de posição conforme os anos passam. Por isso é super importante você não decorar. ***Deves aprender, raciocinar e entender o que está sendo explicado***, pois assim, a cada nova versão você não precisará redecorar tudo novamente.
 
 ![diferentes botões android ou mudanças de botão ao longo das versões](./assets/images/square.png)
 
@@ -50,9 +50,9 @@ Tente associar os assuntos com alguma emoção também (humor, surpresa ou inter
 
 ![Humor](./assets/images/square.png)
 
-Iremos incluir diversas perguntas para refliter e exercícios. Não são opcionais. Aprendemos muita mais quando fazemos do que quando apenas lemos. Você não consegue se manter em forma apenas observando pessoas se exercitando.
+Iremos incluir diversas perguntas e exercícios para refletir. Não são opcionais. Aprendemos muita mais quando fazemos do que quando apenas lemos. Você não consegue se manter em forma apenas observando pessoas se exercitando.
 
-**Experimente novidades. Presta atenão no seu cérebro e descubra o que serve e o que não serve para você**
+**Experimente novidades. Presta atenção no seu cérebro e descubra o que serve e o que não serve para você.**
 
 Queremos que você desenvolva a habilidade de refletir sobre o melhor modo para **você** aprender. Isso não significa que não iremos lhe ensinar, pelo contrário, nós iremos organizar e apresentar os conteúdos de modo a favorecer a sua aprendizagem.
 
@@ -76,7 +76,7 @@ Quando as pessoasl dizem 'computador' normalmente se referem a um computador pes
 
 ![primeiros computadores](./assets/images/square.png)
 
-Os primeiros computadores foram desenvolvidos com propósitos militares – principalmente para computar trajetórias balísticas. Durante este os os computadores, deixaram de ser calculadoras eletrônicas para funcionar como cérebros eletrônicos. Este modelo de computador ficou conhecido como Arquiteura de Von Neumann, possuindo quatro seções principais: A unidade lógica e aritmética, a unidade de controle, os dispositivos de entrada e saída e alguma forma de memorizar os dados, que nós chamamos de memória.
+Os primeiros computadores foram desenvolvidos com propósitos militares – principalmente para computar trajetórias balísticas. Durante este os computadores, deixaram de ser calculadoras eletrônicas para funcionar como cérebros eletrônicos. Este modelo de computador ficou conhecido como Arquiteura de Von Neumann, possuindo quatro seções principais: A unidade lógica e aritmética, a unidade de controle, os dispositivos de entrada e saída e alguma forma de memorizar os dados, que nós chamamos de memória, conceitos nos quais nós iremos destrinchar com mais detalhes mais na frente.
 
 ---
 
@@ -181,7 +181,7 @@ O computador pode possir internamente outros componentes eis alguns deles:
 ![periféricos](./assets/images/square.png)
 
 São coisas que você vai ligar no seu computador para para um propósito específico.
-
+afwewerwe
 Um fone de ouvido, um mou, um teclado, uma impressora, etc. Vamos falar um pouco de alguns dos periféricos mais comuns.
 
 ### Teclado
