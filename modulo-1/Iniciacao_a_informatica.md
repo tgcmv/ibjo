@@ -98,7 +98,8 @@ Para realizar as tarefas, os computadores usam uma combinação de hardware e so
 
 Hardware é toda e qualquer parte física do computador, o que inclui os componentes internos e as partes externas como o monitor e o teclado.
 
-Software é todo conjunto de instruções que diz ao hardware o que ele tem que fazer.
+Software é todo conjunto de ações que dizem ao hardware o que ele tem que fazer.
+Por exemplo: quando apertamos uma letra no teclado o software vai obter essa informação e mandar aparecer na tela.
 
 ---
 
@@ -180,19 +181,82 @@ O computador pode possir internamente outros componentes eis alguns deles:
 
 ![periféricos](./assets/images/square.png)
 
-São coisas que você vai ligar no seu computador para para um propósito específico.
+São coisas que você vai ligar no seu computador para um propósito específico.
 afwewerwe
 Um fone de ouvido, um mou, um teclado, uma impressora, etc. Vamos falar um pouco de alguns dos periféricos mais comuns.
 
 ### Teclado
+
+ É uma ferramenta que conta com vários botões, sendo que cada um tem a sua função com o objetivo final de interagir e passar dados para o computador. Os teclados possuem teclas de numeros,letras,pontuações e ainda as de funções especiais. 
+
 ###	Mouse
+
+Do inglês significa, rato por causa do seu formato, é o dispositivo que controla a setinha que aparece no computador. Ele tem dois botoes com diferentes funções botão esquerdo e botão direito, sendo o do lado esquerdo responsavel por selecionamos algo, abrir programas e movimentarmos os conteudos apresentados em nossa tela. Já o botão direito nos dar atalho para selecionarmos diversas funções. Porem há modelos de mouses com maior variedade de botões, com diferentes funções.
+
 ###	Monitor
+
+É o dispositivo o qual podemos ter controle e ver tudo o que acontece com o computador e notebook.Sua principal função é transmitir o que esta sendo realizado no computado,através de imagens. 
 ###	Impressora
+
+É o aparelho que permite se obter uma cópia em papel de dados que estão contidos no computador. Isto é possivel quando ela é conectada ao computador por via USB, possibilitando assim a troca de informações, porem elas possuem um processador de memória de baixo porte. Existe varios tipos de impressora, dentre elas: impressora de jato de tinta, á laser,de estampa e a impressora 3D. 
+
 ###	Scanner
+
+Faz o processo inverso ao da impressora, onde ele digitaliza imagens,fotos e textos impressos para o computador atraves de um captador de reflexos. Existem dois tipos de scanner, são eles o digitalizador de mesa e o digitalizador de mão. 
+
 ###	Modem
+
+O nome "Modem" é a abreviação de modulador e Demodulador, pois o mesmo realiza a modulação e demodulação, sendo a demodulação o processo que reverte a modulação. Nos computadores, o modem é um periferico de entrada e saida, o mesmo permite conexão e ligações de uma linha de telefone ao equipamento. 
+
+
 ###	Formas de armazenamento
 
----
+---Trata se da forma a qual coletamos ou retemos informações digitais. São elas: Um disco rígido, unidades de CD-ROM e DVD-ROM, estas fizeram com que o disquete ficassem em desusos, devido ao fato dos disquetes terem uma capacidade de armazenamento bastante limitada. 
+
+## software
+
+### O que é software
+
+É um sistema computacional o qual faz com que diversas tarefas sejam realizadas, como escrever mensagens,ouvir músicas no spotify, acessar internet no chrome. Este programa esta presente em computadores,celular,televisores. Os software são classificados de acordo com suas complexidades. sendo eles:
+ De sistema; Responsaveis pelos sistema operacional de todos dispositivos. 
+ Aplicativos; São os famosos programas de computador.
+ De programação; Faz com que se criem outros programas atraves de linguagens de programação.
+ De comunicação; Nos permite as trocas de mensagens e informações.
+ Para jogos; Tem sido muito utilizado tanto para entretenimento como tambem para o meio educacional. 
+ Abertos; É qualquer um dos programas inclusos nas categorias anterior que sejam livre acesso.
+
+ ### O que é um sistema operaconal?
+
+ É um conjunto de softwares o qual tem a função de administrar os recursos de um sistema, onde se estabelece a comunicação entre computador e usuario. 
+
+ ## Tipos de sistema operacional:
+
+ Os principais tipo de sistema operacional são o mobile, este há dois tipos, o sistema IOS da Apple e o Android, do Google. Outro sistema operacional existente é o sistema desktop, que são os sistema exclusivo para computadores, são eles: o Windows,Mac OS X e o linux Ubuntu.
+
+ ## O sistema Windows:
+
+ É um sistema operacional que disponibiliza multifunções  para computadores e dispositivos móveis, sendo desenvolvido pela microsoft. O windows phone é o sistema operacional desenvolvido para dispositivos móveis, sendo tambem produzido pela microsoft. O windows foi projetado em 1981,porem so foi lançado sua primeira versão em 1993.
+
+ ## Utilizar ferramentas e aplicativos do sistema operacional:
+
+ São algumas ferrametnas utilitárias disponiveis por padrão no sistema operacional. Por exemplo: 
+* bloco de notas, um simples editor de texto para anotações
+![bloco de notas](./assets/images/square.png)
+
+* paint, para editar imagens simples
+![paint](./assets/images/square.png)
+  
+* calculadora
+![calculadora](./assets/images/square.png)
+  
+* ferramenta de captura, para salvar pedaços da tela do computador em uma imagem
+![captura](./assets/images/square.png)
+
+## Gerenciar pastas e arquivos:
+
+
+
+
 ---
 
 ## Referências
