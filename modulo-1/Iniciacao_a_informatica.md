@@ -252,7 +252,41 @@ O nome "Modem" é a abreviação de modulador e Demodulador, pois o mesmo realiz
 * ferramenta de captura, para salvar pedaços da tela do computador em uma imagem
 ![captura](./assets/images/square.png)
 
-## Gerenciar pastas e arquivos:
+## O que são redes de computadores:
+
+São dispositivos de computação interconectados no qual se trocam dados e recursos entre si.
+
+## O que é internet:
+
+São redes de computadores que dispersados por todo o planeta,com a finalidade de trocar dados e mensagens atraves de um protocolo comum. A internet traz uma diversidade de recurso e serviços,por exemplo, os documentos de hipertextos da World Wide Web (WWW),redes ponto a ponto e a infraestrutura de correios eletronicos que são os e-mails.
+
+## Como se conectar com a internet?
+
+Conectar se a internet é muito simples, há várias formas de fazê-lo. Dentre eles são:
+* Atraves da conexão ADSL: É a conexão mais utilizada e a mais recomendada para uso domestico,pois oferece uma excelente velocidade de navegação.Para obte la, basta comunicar ao um fornecedor do serviço de internet na sua proximidade. 
+* O terminal: É qualquer dispositivo no qual se possa ver, administrar, enviar e receber informação, o exemplo mais comum é o computador, telefone inteligentes, tablets.
+* Placa de rede: É um circuito instalado nos computadores com a finalidade de receber sinal de internet.
+* O modem: Captura o sinal de internet e transmite as unidades conectadas atraves de cabos e tecnologias sem fio.
+
+## Navegadores de internet:
+
+São programas utilizados para dar acesso a páginas da internet, são conhecidas também como web sites ou apenas sites, podem ser escritas em linguagens como HTML,HTLM5 ou XHTML,estes sites tem que estar hospedados em servidores Web. A comunicação dos navegadores é dada atraves dos servidores Web, utilizando se dos protocolos de trasparencia, sendo os mais conhecidos o hiper-texto HTTP (Hypertext Transfer Protocol ou do portugues protocolo de transferencia de hipertexto),assim são transferidos bilateralmente os dados de arquivo.São exemplos de navegadores: O Chrome, o Firefox, Internet Explore, Opera.
+
+## Sites: 
+
+É onde se reune um conjunto de páginas interligadas, sendo divididas em diferentes sessões. Basicamente um site é  o local de uma companhia ou um profissional da internet. 
+
+## Sites de buscas: 
+
+É um sistema online no qual é responsavel por pesquisar arquivos armazenados em servidores na internet. Os mais conhecidos são: Google e Bing.
+
+## Encontrando conteudos na internet:
+
+
+
+
+
+
 
 
 
